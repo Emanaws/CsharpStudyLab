@@ -1,0 +1,8 @@
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\For and Foreachloops\bin\Debug\For and Foreachloops.exe.config
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\For and Foreachloops\bin\Debug\For and Foreachloops.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\For and Foreachloops\bin\Debug\For and Foreachloops.pdb
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\For and Foreachloops\obj\Debug\For and Foreachloops.csproj.AssemblyReference.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\For and Foreachloops\obj\Debug\For and Foreachloops.csproj.CoreCompileInputs.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\For and Foreachloops\obj\Debug\For and Foreachloops.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\For and Foreachloops\obj\Debug\For and Foreachloops.pdb
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\For and Foreachloops\obj\Debug\For and Foreachloops.csproj.SuggestedBindingRedirects.cache

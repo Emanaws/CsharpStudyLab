@@ -1,0 +1,8 @@
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Operators\bin\Debug\Operators.exe.config
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Operators\bin\Debug\Operators.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Operators\bin\Debug\Operators.pdb
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Operators\obj\Debug\Operators.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Operators\obj\Debug\Operators.pdb
