@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -208,7 +209,7 @@ namespace ForEach
                     Console.WriteLine("Male");
                 } 
                */
-            //Write a program to count number of characters in your name
+            /*Write a program to count number of characters in your name
                     Console.WriteLine("Please Enter your Name");
                     string UserName = Console.ReadLine().ToString();
                     int count = 0;
@@ -219,8 +220,58 @@ namespace ForEach
                              //count = i+1;
                    }
                     Console.WriteLine(UserName + " "  + count);
-///////////////////
-            Console.ReadLine();
+            */
+            /*Write a program to check if the number is prime or not
+
+                    Console.WriteLine("Please Enter your Number");
+                    int userInput = int.Parse(Console.ReadLine());
+                    if (userInput <= 1)
+                    {
+                        Console.WriteLine("Try again");
+                    }
+                    else
+                    {
+                        int num = 0;
+                        for (int i = 2; i < userInput; i++)
+                        {
+                            if (userInput % 1 == 0)
+                            {
+                                Console.WriteLine("{0} is not Prime", userInput);
+                                num = 1;
+                                break;
+                            }
+                        }
+                        if (num == 0)
+                        {
+                            Console.WriteLine("{0} is Prime", userInput);
+                        }
+                    }
+                    */
+            /*Write a C# Sharp program to swap two numbers
+                   //Option1
+                    Console.WriteLine("Please Enter your First Number");
+                    int num1 = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Please Enter your Second Number");
+                    int num2 = int.Parse(Console.ReadLine());
+                    int val3 = num2;
+                    num2 = num1;
+                    num1 = val3;
+                    Console.WriteLine("After swapping values: \n Variable1 = {0} \n Variable2 = {1}", num1, num2);
+            */
+
+                    int num1, num2, temp;
+                    Console.WriteLine("Please Enter your First Number");
+                    num1 = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Please Enter your second Number");
+                    num2 = Convert.ToInt32(Console.ReadLine());
+
+                    Console.WriteLine("Before swapping num1 = {0} and num2 = {1}", num1,num2);
+                            temp = num1;
+                            num1 = num2;
+                            num2 = temp;
+                    Console.WriteLine("After swapping num1 = {0} and num2 = {1}", num1, num2);
+                    //Console.WriteLine("Press any key to exit");
+                    Console.ReadLine();
         }
     }
 }
