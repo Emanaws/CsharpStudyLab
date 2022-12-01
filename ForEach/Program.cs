@@ -221,7 +221,7 @@ namespace ForEach
                    }
                     Console.WriteLine(UserName + " "  + count);
             */
-            /*Write a program to check if the number is prime or not
+            //Write a program to check if the number is prime or not
 
                     Console.WriteLine("Please Enter your Number");
                     int userInput = int.Parse(Console.ReadLine());
@@ -246,7 +246,26 @@ namespace ForEach
                             Console.WriteLine("{0} is Prime", userInput);
                         }
                     }
-                    */
+            /*Option2
+                        Console.WriteLine("Enter a number to check if it's a Prime or not");
+                        int a = 0;
+                        int n = Convert.ToInt32(Console.ReadLine());
+                        for (int i = 1; i <= n; i++)
+                        {
+                            if (n % i == 0)
+                            {
+                                a++;
+                            }
+                        }
+                        if (a == 2)
+                        {
+                            Console.WriteLine("is a Prime Number", n);
+                        }
+                        else
+                        {
+                            Console.WriteLine("Not a Prime Number");
+                        }
+                 */
             /*Write a C# Sharp program to swap two numbers
                    //Option1
                     Console.WriteLine("Please Enter your First Number");
@@ -257,7 +276,7 @@ namespace ForEach
                     num2 = num1;
                     num1 = val3;
                     Console.WriteLine("After swapping values: \n Variable1 = {0} \n Variable2 = {1}", num1, num2);
-            */
+            
 
                     int num1, num2, temp;
                     Console.WriteLine("Please Enter your First Number");
@@ -270,8 +289,10 @@ namespace ForEach
                             num1 = num2;
                             num2 = temp;
                     Console.WriteLine("After swapping num1 = {0} and num2 = {1}", num1, num2);
-                    //Console.WriteLine("Press any key to exit");
-                    Console.ReadLine();
+                   //Console.WriteLine("Press any key to exit");
+             */
+            Console.ReadLine();
+            
         }
     }
 }
