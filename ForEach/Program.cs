@@ -221,7 +221,7 @@ namespace ForEach
                    }
                     Console.WriteLine(UserName + " "  + count);
             */
-            //Write a program to check if the number is prime or not
+           /* //Write a program to check if the number is prime or not
 
                     Console.WriteLine("Please Enter your Number");
                     int userInput = int.Parse(Console.ReadLine());
@@ -246,7 +246,7 @@ namespace ForEach
                             Console.WriteLine("{0} is Prime", userInput);
                         }
                     }
-            /*Option2
+            Option2
                         Console.WriteLine("Enter a number to check if it's a Prime or not");
                         int a = 0;
                         int n = Convert.ToInt32(Console.ReadLine());
