@@ -221,7 +221,7 @@ namespace ForEach
                    }
                     Console.WriteLine(UserName + " "  + count);
             */
-           /* //Write a program to check if the number is prime or not
+           /*Write a program to check if the number is prime or not
 
                     Console.WriteLine("Please Enter your Number");
                     int userInput = int.Parse(Console.ReadLine());
