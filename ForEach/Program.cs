@@ -221,51 +221,51 @@ namespace ForEach
                    }
                     Console.WriteLine(UserName + " "  + count);
             */
-           /*Write a program to check if the number is prime or not
+            /*Write a program to check if the number is prime or not
 
-                    Console.WriteLine("Please Enter your Number");
-                    int userInput = int.Parse(Console.ReadLine());
-                    if (userInput <= 1)
-                    {
-                        Console.WriteLine("Try again");
-                    }
-                    else
-                    {
-                        int num = 0;
-                        for (int i = 2; i < userInput; i++)
-                        {
-                            if (userInput % 1 == 0)
-                            {
-                                Console.WriteLine("{0} is not Prime", userInput);
-                                num = 1;
-                                break;
-                            }
-                        }
-                        if (num == 0)
-                        {
-                            Console.WriteLine("{0} is Prime", userInput);
-                        }
-                    }
-            Option2
-                        Console.WriteLine("Enter a number to check if it's a Prime or not");
-                        int a = 0;
-                        int n = Convert.ToInt32(Console.ReadLine());
-                        for (int i = 1; i <= n; i++)
-                        {
-                            if (n % i == 0)
-                            {
-                                a++;
-                            }
-                        }
-                        if (a == 2)
-                        {
-                            Console.WriteLine("is a Prime Number", n);
-                        }
-                        else
-                        {
-                            Console.WriteLine("Not a Prime Number");
-                        }
-                 */
+                     Console.WriteLine("Please Enter your Number");
+                     int userInput = int.Parse(Console.ReadLine());
+                     if (userInput <= 1)
+                     {
+                         Console.WriteLine("Try again");
+                     }
+                     else
+                     {
+                         int num = 0;
+                         for (int i = 2; i < userInput; i++)
+                         {
+                             if (userInput % 1 == 0)
+                             {
+                                 Console.WriteLine("{0} is not Prime", userInput);
+                                 num = 1;
+                                 break;
+                             }
+                         }
+                         if (num == 0)
+                         {
+                             Console.WriteLine("{0} is Prime", userInput);
+                         }
+                     }
+             Option2
+                         Console.WriteLine("Enter a number to check if it's a Prime or not");
+                         int a = 0;
+                         int n = Convert.ToInt32(Console.ReadLine());
+                         for (int i = 1; i <= n; i++)
+                         {
+                             if (n % i == 0)
+                             {
+                                 a++;
+                             }
+                         }
+                         if (a == 2)
+                         {
+                             Console.WriteLine("is a Prime Number", n);
+                         }
+                         else
+                         {
+                             Console.WriteLine("Not a Prime Number");
+                         }
+                  */
             /*Write a C# Sharp program to swap two numbers
                    //Option1
                     Console.WriteLine("Please Enter your First Number");
@@ -291,6 +291,26 @@ namespace ForEach
                     Console.WriteLine("After swapping num1 = {0} and num2 = {1}", num1, num2);
                    //Console.WriteLine("Press any key to exit");
              */
+            /*
+                    Console.Write("Enter a string to Check Palindrome : ");
+                    string str = Console.ReadLine();
+                    string reverse = string.Empty;
+
+                    for (int i = str.Length - 1; i >= 0; i--)
+                    {
+                        reverse += str[i];
+                    }
+
+                    if (str == reverse)
+                    {
+                        Console.WriteLine($"{str} is Palindrome.",str);
+                    }
+                    else
+                    {
+                        Console.WriteLine($"{str} is not Palindrome ",str);
+                    }
+            */
+
             Console.ReadLine();
             
         }
