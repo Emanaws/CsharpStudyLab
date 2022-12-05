@@ -1,0 +1,8 @@
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\ClassesStudy\bin\Debug\ClassesStudy.exe.config
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\ClassesStudy\bin\Debug\ClassesStudy.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\ClassesStudy\bin\Debug\ClassesStudy.pdb
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\ClassesStudy\obj\Debug\ClassesStudy.csproj.AssemblyReference.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\ClassesStudy\obj\Debug\ClassesStudy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\ClassesStudy\obj\Debug\ClassesStudy.csproj.CoreCompileInputs.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\ClassesStudy\obj\Debug\ClassesStudy.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\ClassesStudy\obj\Debug\ClassesStudy.pdb
