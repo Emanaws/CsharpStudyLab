@@ -1,0 +1,8 @@
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Banking\bin\Debug\Banking.exe.config
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Banking\bin\Debug\Banking.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Banking\bin\Debug\Banking.pdb
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Banking\obj\Debug\Banking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Banking\obj\Debug\Banking.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Banking\obj\Debug\Banking.pdb

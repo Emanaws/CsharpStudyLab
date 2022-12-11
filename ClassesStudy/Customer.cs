@@ -16,6 +16,7 @@ namespace ClassesStudy
     {
         string _FName;
         string _LName;
+        string _gender;
 
         /* Constructor
          A constructor is a special type of method which will be called automatically 
@@ -33,29 +34,30 @@ namespace ClassesStudy
          
          */
         //con
-        public Customer(string fName, string lName)
+        public Customer(string fName, string lName, string gender)
         {
             _FName = fName;
             _LName = lName;
+            _gender = gender;
             /* Or
             this._FName = fName;
             this._LName = lName;
-            */
+*/
         }
             /*Distructors
              Distructors have the same name as the class with ~symbol in front of them
              Distructors are places where you could put your code to release any resources your class was holding during lifetime
-          
+            
              They are called garbage collector
-             */
+         */
         ~Customer()
         {
             //clean up code here
         }
         public void PrintFullName()
         {
-            Console.WriteLine("Full Name: = {0}", _FName + " " + _LName);
-            Console.WriteLine("Full Name: = {0}", this._FName + " " + this._LName);
+            Console.WriteLine("Full Name: = {0}", _FName + " " + _LName + " \n" + "Your Gender is:" + _gender);
+            //Console.WriteLine("Full Name: = {0}", this._FName + " " + this._LName +" \n" + "Your Gender is:" + this._gender);
         }
     }
 }

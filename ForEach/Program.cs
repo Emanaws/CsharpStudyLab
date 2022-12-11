@@ -311,7 +311,19 @@ namespace ForEach
                     }
             */
 
-            Console.ReadLine();
+
+
+                    int number, multiplier;
+                    Console.WriteLine("Plaese Enter Number");  
+                    number = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Plaese Enter multiplier Number");
+                    multiplier = Convert.ToInt32(Console.ReadLine());
+                    int result = number * multiplier;
+
+                    Console.WriteLine(" Result is: {0} * {1} = {2}", number, multiplier,(number * multiplier));
+                    Console.WriteLine(" Result is: {0} * {1} = {2}", number, multiplier,result);
+                    //Console.WriteLine("{0} * {1} = {2}", result);
+                    Console.ReadLine();
             
         }
     }
