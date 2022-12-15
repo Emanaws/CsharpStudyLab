@@ -13,6 +13,7 @@ namespace GetSet
         private string plname { get; set; }
         private string  gender { get; set; }
         private DateTime pldob { get; set; }
+        public readonly string ssn = "123456789";
         //To Access private property
             public string PFName {
                     get { return pfname; }

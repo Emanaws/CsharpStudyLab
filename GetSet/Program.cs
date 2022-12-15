@@ -14,9 +14,11 @@ namespace GetSet
             p.PFName = "Redwan";
             p.PLName = "Omer";
             p.Gender = "Male";
+            
             p.PLDOB = DateTime.Parse("12/12/2002");
 
-            Console.WriteLine("Your Full Name is:{0}" , p.PFName + " " + p.PLName + "\n" + "Your gender is:" + p.Gender + "\n" + "your Age is:" + p.GetAge());
+            Console.WriteLine("Your Full Name is:{0}" , p.PFName + " " + p.PLName + "\n" +
+                "Your gender is:" + p.Gender + "\n" + "your Age is:" + p.GetAge() + " \n" +"Your SSN is:" + p.ssn);
             Console.ReadKey();
         }
     }
