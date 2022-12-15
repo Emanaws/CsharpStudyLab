@@ -1,0 +1,8 @@
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\GetSet\bin\Debug\GetSet.exe.config
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\GetSet\bin\Debug\GetSet.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\GetSet\bin\Debug\GetSet.pdb
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\GetSet\obj\Debug\GetSet.csproj.AssemblyReference.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\GetSet\obj\Debug\GetSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\GetSet\obj\Debug\GetSet.csproj.CoreCompileInputs.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\GetSet\obj\Debug\GetSet.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\GetSet\obj\Debug\GetSet.pdb
