@@ -1,0 +1,8 @@
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Constructor\bin\Debug\Constructor.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Constructor\obj\Debug\Constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Constructor\obj\Debug\Constructor.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\Constructor\obj\Debug\Constructor.pdb

@@ -311,8 +311,8 @@ namespace ForEach
                     }
             */
 
-
-
+                 try
+                    {
                     int number, multiplier;
                     Console.WriteLine("Plaese Enter Number");  
                     number = Convert.ToInt32(Console.ReadLine());
@@ -323,8 +323,15 @@ namespace ForEach
                     Console.WriteLine(" Result is: {0} * {1} = {2}", number, multiplier,(number * multiplier));
                     Console.WriteLine(" Result is: {0} * {1} = {2}", number, multiplier,result);
                     //Console.WriteLine("{0} * {1} = {2}", result);
+                    //Console.ReadLine();
+                    }
+                  catch (Exception ex)
+                    {
+                    Console.WriteLine(ex.Message);
+                    }
+
                     Console.ReadLine();
-            
+
         }
     }
 }

@@ -8,7 +8,7 @@ namespace GetSet
 {
     internal class Person
     {
-        //private property
+        //Private property
         private string pfname { get; set; }
         private string plname { get; set; }
         private string  gender { get; set; }
@@ -21,23 +21,23 @@ namespace GetSet
             }
 
             public string PLName {
-                get { return plname; }
-                set { plname = value; }
+                    get { return plname; }
+                    set { plname = value; }
             }
 
             public string Gender {
-                get { return gender; }
-                set { gender = value; }
+                    get { return gender; }
+                    set { gender = value; }
             }
             public DateTime PLDOB {
-                get { return pldob; }
-                set { pldob = value; }
+                    get { return pldob; }
+                    set { pldob = value; }
             }
             public int GetAge()
             {
-                var dob = pldob.Year;
-                var thisyear = DateTime.Now.Year;
-                return thisyear - dob;
+                    var dob = pldob.Year;
+                    var thisyear = DateTime.Now.Year;
+                    return thisyear - dob;
             }
     }
 }
