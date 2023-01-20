@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2EC4097F-08F2-4846-B955-B4DCE3AFB038}</ProjectGuid>
+    <ProjectGuid>{F36EBA09-E259-46EB-BFEB-7ADFBAFC6829}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Constructor</RootNamespace>
-    <AssemblyName>Constructor</AssemblyName>
+    <RootNamespace>RegularExpressions</RootNamespace>
+    <AssemblyName>RegularExpressions</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Department.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="student.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

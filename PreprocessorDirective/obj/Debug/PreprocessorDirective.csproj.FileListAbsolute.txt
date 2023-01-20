@@ -1,0 +1,8 @@
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\PreprocessorDirective\bin\Debug\PreprocessorDirective.exe.config
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\PreprocessorDirective\bin\Debug\PreprocessorDirective.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\PreprocessorDirective\bin\Debug\PreprocessorDirective.pdb
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\PreprocessorDirective\obj\Debug\PreprocessorDirective.csproj.AssemblyReference.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\PreprocessorDirective\obj\Debug\PreprocessorDirective.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\PreprocessorDirective\obj\Debug\PreprocessorDirective.csproj.CoreCompileInputs.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\PreprocessorDirective\obj\Debug\PreprocessorDirective.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\PreprocessorDirective\obj\Debug\PreprocessorDirective.pdb

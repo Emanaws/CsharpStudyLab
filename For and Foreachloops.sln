@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetSet", "GetSet\GetSet.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{2EC4097F-08F2-4846-B955-B4DCE3AFB038}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreprocessorDirective", "PreprocessorDirective\PreprocessorDirective.csproj", "{917FB4E7-5C41-4E92-8856-BE8F853D44BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{F36EBA09-E259-46EB-BFEB-7ADFBAFC6829}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{2EC4097F-08F2-4846-B955-B4DCE3AFB038}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EC4097F-08F2-4846-B955-B4DCE3AFB038}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EC4097F-08F2-4846-B955-B4DCE3AFB038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917FB4E7-5C41-4E92-8856-BE8F853D44BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917FB4E7-5C41-4E92-8856-BE8F853D44BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917FB4E7-5C41-4E92-8856-BE8F853D44BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917FB4E7-5C41-4E92-8856-BE8F853D44BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36EBA09-E259-46EB-BFEB-7ADFBAFC6829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36EBA09-E259-46EB-BFEB-7ADFBAFC6829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36EBA09-E259-46EB-BFEB-7ADFBAFC6829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36EBA09-E259-46EB-BFEB-7ADFBAFC6829}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

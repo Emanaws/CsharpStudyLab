@@ -1,0 +1,8 @@
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\RegularExpressions\obj\Debug\RegularExpressions.csproj.AssemblyReference.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\RegularExpressions\obj\Debug\RegularExpressions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\Renen\Desktop\YKFULL\YK_Assigment\For and Foreachloops\RegularExpressions\obj\Debug\RegularExpressions.pdb
